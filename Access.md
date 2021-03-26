@@ -19,5 +19,10 @@
 
 # 2. Workforce Identity How to...
 
-## How to Setup iDaptive Connector with PVWA Test Case
+## 2.1 How to integrate PVWA with iDaptive MFA
+- [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
+- [Setup and Integration Video](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
+
+
+## 2.2 How to Setup iDaptive Connector with PVWA Test Case
 - [Demo Video](https://cyberark.kiteworks.com/w/bPVgC4R0VGh2G6ZK)
