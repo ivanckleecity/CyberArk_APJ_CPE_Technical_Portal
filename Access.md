@@ -23,6 +23,12 @@
 - [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
 - [Setup and Integration Video](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
 
-
 ## 2.2 How to Setup iDaptive Connector with PVWA Test Case
-- [Demo Video](https://cyberark.kiteworks.com/w/bPVgC4R0VGh2G6ZK)
+- [Setup Video](https://cyberark.kiteworks.com/w/bPVgC4R0VGh2G6ZK)
+
+## 2.3 How to demo iDaptive Cloud Agent support VDI Desktop
+- This demo show case
+  - 1.	Installed iDaptive Cloud agent in windows 10 (IP 10.0.0.120)
+  - 2.	User RDP client access (10.0.0.120) from Windows 10  (Client 1)
+  - 3.	You can see (10.0.0.120) will ask for the iDaptive MFA login and used OTP
+- [Setup Video](https://cyberark.kiteworks.com/w/V6LWO7JCY4PDgc9j)
