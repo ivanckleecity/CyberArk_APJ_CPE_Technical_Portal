@@ -9,6 +9,14 @@
 ## 1.2 Workforce Identity User Behavior Analytics Demo
 - [Demo Video](https://cyberark.kiteworks.com/w/awSyQZJCLQ7xSZ3c)
 
+## 1.3 iDaptive Windows Cloud Agent MFA/SSO Demo
+- This demo show case
+  - 1. User John login to Windows 10 Workstation with iDaptive Cloud Agent MFA
+  - 2. Then you can the John able use SSO login to iDaptive Portal without asking password
+  - 3. Then John use iDaptive SSO login to Github
+  - 5. When John request to access PVWA console, additional MFA will be requset
+- [Demo Video](https://cyberark.kiteworks.com/w/FKGi9AROaQceGFRd)
+
 # 2. Workforce Identity How to...
 
 ## How to Setup iDaptive Connector with PVWA Test Case
