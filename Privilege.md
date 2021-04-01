@@ -1,10 +1,10 @@
 # Privileged Access Products
 - [For the detail in CyberArk Website](https://www.cyberark.com/products/privileged-access/)
 
-## Privileged Access Manager
+## 1. Privileged Access Manager
 
-## Vendor Privileged Access Manager
+## 2. Vendor Privileged Access Manager
 
-## Cloud Entitlements Manager
+## 3. [Endpoint Privilege Manager](EPM.md)
 
-## Endpoint Privilege Manager
+## 4. Cloud Entitlements Manager
