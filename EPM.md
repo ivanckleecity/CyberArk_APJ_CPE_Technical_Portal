@@ -1,7 +1,7 @@
 # 1. EPM Demo
 
 ## 1.1 Endpoint Least Privilege Demo
-- [Introduction of Endpoint Least Privilege](https://docs.cyberark.com/Product-Doc/OnlineHelp/EPM/Latest/en/Content/Intro/Introduction.htm?Highlight=Least%20Privilege)
+- Introduction of Endpoint Least Privilege. [Detail](https://docs.cyberark.com/Product-Doc/OnlineHelp/EPM/Latest/en/Content/Intro/Introduction.htm?Highlight=Least%20Privilege)
 - In this demo we show case two demos
   - 1. How end user run applications or change configuration without admin right in the endpoint
   - 2. How EPM elevate approved applications to run without end user having admin right
