@@ -20,7 +20,8 @@
 - [Demo Video](https://cyberark.kiteworks.com/w/deF7hn22GjJ187qY)
 
 ## 2.2 How to Remove Local Administrators
-- [This topic describes and show how EPM manages local administrators on endpoint machines removes users and groups from the local administrator group](https://docs.cyberark.com/Product-Doc/OnlineHelp/EPM/Latest/en/Content/EPM/Server%20User%20Guide/ManageLocalAdministrators.htm?Highlight=Least%20Privilege)
+- This topic describes and show how EPM manages local administrators on endpoint machines removes users and groups from the local administrator group.
+  - [For more detail](https://docs.cyberark.com/Product-Doc/OnlineHelp/EPM/Latest/en/Content/EPM/Server%20User%20Guide/ManageLocalAdministrators.htm?Highlight=Least%20Privilege)
 - [Demo Video](https://cyberark.kiteworks.com/w/CFVOibiejoOIjVLW)
 
 # 3. EPM Experience Lab
