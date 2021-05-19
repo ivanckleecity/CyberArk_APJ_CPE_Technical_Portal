@@ -36,3 +36,9 @@
   - 2.	User RDP client access (10.0.0.120) from Windows 10  (Client 1)
   - 3.	You can see (10.0.0.120) will ask for the iDaptive MFA login and used OTP
 - [Setup Video](https://cyberark.kiteworks.com/w/V6LWO7JCY4PDgc9j)
+
+# 3. CyberArk Remote Access Demo
+
+## 3.1 Secure Native Access
+- Remote users and vendors can initiate privileged sessions directly from their desktop or mobile device with connection managers and RDP client applications, while benefiting from remote, VPN-less, password-less access. This enables remote vendor and IT administrators to use remote connection applications of their choice and maintain their regular work processes when working with PAM. The ability to connect is based on PAS account management, configuration, and access flows. [Detail](https://docs.cyberark.com/Product-Doc/OnlineHelp/Alero/Latest/en/Content/Admin/Direct-RDP-Access.htm?Highlight=secure%20nat)
+- [Demo Video](https://cyberark.kiteworks.com/w/FpylpaJsUMfwt93U)
