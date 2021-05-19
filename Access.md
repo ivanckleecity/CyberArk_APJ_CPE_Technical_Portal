@@ -1,4 +1,4 @@
-# 1. Workforce Identity Demo
+# 1. CyberArk Identity Demo
 
 ## 1.1 iDaptive MFA PVWA integraton and Dual Control Workflow Demo
 - This demo show cases
@@ -17,11 +17,11 @@
   - 5. When John request to access PVWA console, additional MFA will be requset
 - [Demo Video](https://cyberark.kiteworks.com/w/FKGi9AROaQceGFRd)
 
-## 1.4 CyberArk Authenticator
+## 1.4 Windows and MacOS Authenticator
 - The CyberArk Authenticator is software installed on a Windows or macOS machine that generates TOTPs that you can use to satisfy authentication challenges when you sign in to CyberArk Identity. It's similar to mobile-based authenticators (for example, the CyberArk Idaptive mobile app or Google Authenticator), except that it can run on your Windows or macOS based machine. This allows you to use OTPs to sign in to CyberArk Identity without depending on a mobile device. [Detail](https://docs.cyberark.com/Product-Doc/OnlineHelp/Idaptive/Latest/en/Content/UserPortal/DesktopAuthenticator.htm?Highlight=CyberArk%20Authenticator)
 - [Demo Video](https://www.youtube.com/watch?v=8dBwxETfivM)
 
-# 2. Workforce Identity How to...
+# 2. CyberArk Identity How to...
 
 ## 2.1 How to integrate PVWA with iDaptive MFA
 - [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
