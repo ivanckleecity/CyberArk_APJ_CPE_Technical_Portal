@@ -1,4 +1,4 @@
-# [CyberArk Privileged Access Products](https://www.cyberark.com/products/privileged-access/)
+# [CyberArk Privileged Access Manager (PAM)](https://www.cyberark.com/products/privileged-access-manager/)
 
 # 1. How to ...
 
