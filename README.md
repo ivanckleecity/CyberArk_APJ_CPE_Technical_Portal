@@ -5,10 +5,10 @@ Welcome to CyberArk APJ Certified Pre-Sales Engineer (CPE) Portal. In this porta
 
 ## Products
 
-### [- Privilege](Privilege.md)
+### [ -Privilege](Privilege.md)
 
-### [- Access](Access.md)
+### [ -Access](Access.md)
 
-### [- DevSecOps](DevSecOps.md)
+### [ -DevSecOps](DevSecOps.md)
 
 ## [CyberArk Certified Delivery Engineer (CDE) Club Technical Session Records](https://github.com/ivanckleecity/apj_cde_club)
