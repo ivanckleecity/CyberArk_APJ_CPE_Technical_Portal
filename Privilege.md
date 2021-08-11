@@ -1,3 +1,3 @@
-# [Privileged Access Products](pam_on-premise.md)
+# [Privileged Access Management](pam_on-premise.md)
 
 # [Endpoint Privilege Manager](EPM.md)
