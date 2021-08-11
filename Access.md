@@ -45,7 +45,7 @@
   - Configurate Paloalto GP VPN SAML
   - Paloalto GP VPN MFA Demo
 - [Setup Video](https://www.youtube.com/watch?v=-e3rk2siN_A)
-- Prepared by Huy Do, CyberArk Solution Engineer, ASEAN
+- The content created by Huy Do, CyberArk Solution Engineer, ASEAN
 
 ## 3.2 SAML Use Case 2: How to configurate CyberArk Identity MFA for CyberArk PAM PVWA with SAML Auth
 - [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
@@ -58,7 +58,7 @@
   - Configurate Paloalto GP VPN MFA with CyberArk Identity Radius
   - Paloalto GP VPN MFA Demo
 - [Setup Video](https://www.youtube.com/watch?v=O-RSF7d_SKs)
-- Prepared by Huy Do, CyberArk Solution Engineer, ASEAN
+- The content created by Huy Do, CyberArk Solution Engineer, ASEAN
 
 ## 3.4 How to Setup CyberArk Identity Connector with PVWA Test Case
 - [Setup Video](https://cyberark.kiteworks.com/w/bPVgC4R0VGh2G6ZK)
