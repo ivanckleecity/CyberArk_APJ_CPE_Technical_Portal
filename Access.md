@@ -35,16 +35,25 @@
 
 # 3. CyberArk Identity How to...
 
-## How to integrate PVWA with iDaptive MFA
+## How to configurate CyberArk Identity MFA for Paloalto Global Protect VPN via SAML Auth
+- The videos including...
+  - Configurate CyberArk Identity SAML Apps
+  - Configure MFA Access Policy
+  - Mapping SAML Accunt Information
+  - Configurate Paloalto GP SAML
+  - Paloalto GP MFA Demo
+- [Setup Video](https://www.youtube.com/watch?v=-e3rk2siN_A)
+
+## How to configurate CyberArk Identity MFA for CyberArk PAM PVWA with SAML Auth
 - [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
 - [Setup and Integration Video](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
 
-## How to Setup iDaptive Connector with PVWA Test Case
+## How to Setup CyberArk Identity Connector with PVWA Test Case
 - [Setup Video](https://cyberark.kiteworks.com/w/bPVgC4R0VGh2G6ZK)
 
-## How to demo iDaptive Cloud Agent support VDI Desktop
+## How to install and demo CyberArk Identity Endpoint MFA on VDI Desktop
 - This demo show case
-  - 1.	Installed iDaptive Cloud agent in windows 10 (IP 10.0.0.120)
+  - 1.	Installed and configure CyberArk Identity Endpoint agent in VDI Windows 10 (IP 10.0.0.120)
   - 2.	User RDP client access (10.0.0.120) from Windows 10  (Client 1)
-  - 3.	You can see (10.0.0.120) will ask for the iDaptive MFA login and used OTP
+  - 3.	You can see (10.0.0.120) will ask for the Identity MFA login and used OTP
 - [Setup Video](https://cyberark.kiteworks.com/w/V6LWO7JCY4PDgc9j)
