@@ -35,6 +35,8 @@
 
 # 3. CyberArk Identity How to...
 
+## SAML MFA Examples
+
 ## How to configurate CyberArk Identity MFA for Paloalto Global Protect VPN via SAML Auth
 - The videos including...
   - Configurate CyberArk Identity SAML Apps
@@ -43,6 +45,7 @@
   - Configurate Paloalto GP SAML
   - Paloalto GP MFA Demo
 - [Setup Video](https://www.youtube.com/watch?v=-e3rk2siN_A)
+- Prepared by Huy Do, CyberArk Solution Engineer, ASEAN
 
 ## How to configurate CyberArk Identity MFA for CyberArk PAM PVWA with SAML Auth
 - [Lab Guide](https://cyberark.kiteworks.com/w/E6rOvZfbuw2d9sn3)
