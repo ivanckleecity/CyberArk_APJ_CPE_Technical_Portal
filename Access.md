@@ -39,7 +39,7 @@
 - The videos including...
   - Configurate CyberArk Identity SAML Apps
   - Configure MFA Access Policy
-  - Mapping SAML Accunt Information
+  - Mapping SAML Account Information
   - Configurate Paloalto GP SAML
   - Paloalto GP MFA Demo
 - [Setup Video](https://www.youtube.com/watch?v=-e3rk2siN_A)
