@@ -16,5 +16,5 @@
   - Deploy Follower with Seed Fetcher
   - Deploy App to EKS Cluster with CyberArk Summon Secrets Injection
   - Deploy App to EKS Cluster with CyberArk Secretless Broker
-- # [Configuration Guides](https://github.com/ivanckleecity/CyberArk-Conjur-EKS-Lab-2021/blob/main/README.md)
+- [Configuration Guides](https://github.com/ivanckleecity/CyberArk-Conjur-EKS-Lab-2021/blob/main/README.md)
 - The content created by Ivan Lee, Solutions Engineer, APJ
