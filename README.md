@@ -5,9 +5,9 @@ Welcome to CyberArk APJ Certified Pre-Sales Engineer (CPE) Portal. In this porta
 
 ## Products
 
-### [- Access](Access.md)
-
 ### [- Privilege](Privilege.md)
+
+### [- Access](Access.md)
 
 ### [- DevSecOps](DevSecOps.md)
 
